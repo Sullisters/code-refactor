@@ -4,6 +4,8 @@
 
 It is a hands-on project to teach us good project principles.
 
+![Horiseon](https://user-images.githubusercontent.com/33384620/191868518-3bc61fa2-eca2-478d-a445-f1267bf2955e.png)
+
 ## Why it is useful
 
 Helpful for those just getting started with HTML and CSS. Teaching them good ordering practices and the importance of writing as little as possible. 

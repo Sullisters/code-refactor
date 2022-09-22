@@ -4,8 +4,6 @@
 
 It is a hands-on project to teach us good project principles.
 
-![Alt text](file:///C:/Users/music/Downloads/Horiseon.png?raw=true "Horiseon")
-
 ## Why it is useful
 
 Helpful for those just getting started with HTML and CSS. Teaching them good ordering practices and the importance of writing as little as possible. 

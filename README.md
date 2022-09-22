@@ -12,7 +12,7 @@ Helpful for those just getting started with HTML and CSS. Teaching them good ord
 
 Other people can download the repo from our class repo and work from there. This is the completed project.
 
-##Who maintains and contributes your project
+## Who maintains and contributes your project
 
 Just me...
 
